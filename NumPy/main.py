@@ -1,1 +1,2 @@
-print(0998)
+print(998)
+print(990)
