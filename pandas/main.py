@@ -1,6 +1,2 @@
-print(90)
-print(3498)
-print(545)
-print(34789)
-print(24)
-print(890)
+# Some learnings 
+print("I am nothing yet I have to develop so many things !")
